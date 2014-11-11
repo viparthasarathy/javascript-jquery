@@ -1,0 +1,32 @@
+.container {
+	width: 500px;
+	height: 500px;
+	margin: 50px auto;
+}
+
+.grid {
+	border: 1px solid black;
+	background-color: #93daff;
+	float: left;
+
+
+}
+
+
+.remove {
+	background-color: white;
+}
+
+button {
+	width: 150px;
+	height: 35px;
+	margin-left: 770px;
+	margin-top: 50px;
+	background-color: #ff33vc;
+	border-radius: 5px;
+	border: 2px solid black;
+	color: black;
+	font-weight: bold;
+	font-size: 14px;
+	font-family: Arial;
+}
